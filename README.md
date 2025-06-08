@@ -1,4 +1,4 @@
-# ROA Prediction Optimization Project
+# ESG-Driven ROA Prediction Optimization Project
 
 ## Project Overview
 This project implements three optimization algorithms—**Genetic Algorithm (GA)**, **Particle Swarm Optimization (PSO)**, and **Adaptive Guided Differential Evolution (AdaGuiDE)**—to predict **Return on Assets (ROA)** for companies in three industries: software, pharmaceuticals, and banking. The goal is to optimize weights for financial and ESG (Environmental, Social, Governance) factors and select mathematical operators (+, -, *, /) to construct a linear combination that minimizes the Mean Squared Error (MSE) between predicted and actual ROA values.
